@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.main-block {
+    display: flex;
+    padding: 20px;
+}
+
+main article {
+    width: 100px;
+    height: 200px;
+    background-color: grey;
+    margin-right: 20px;
+}
