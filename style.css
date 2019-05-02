@@ -4,12 +4,13 @@ body {
 
 .main-block {
     display: flex;
-    padding: 20px;
+    flex-wrap: wrap;
+    padding: 20px 0 20px 20px;
 }
 
 main article {
     width: 100px;
     height: 200px;
     background-color: grey;
-    margin-right: 20px;
+    margin: 0 20px 20px 0;
 }
